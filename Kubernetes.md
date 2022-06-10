@@ -74,8 +74,6 @@ A simple server
 
 - for stateful apps
 
-
-
 ### Nodes
 
 - each node has multiple pods on it
@@ -156,8 +154,6 @@ A simple server
 
 - status
 
-
-
 ## Namespaces
 
 - organize
@@ -166,7 +162,7 @@ A simple server
 
 - everything in a namespace
 
--  conflicate in application names
+- conflicate in application names
 
 - resource sharing
 
@@ -180,8 +176,4 @@ A simple server
 
 - volumes and nodes can't bind to namespace
 
-
-
 ## Ingress
-
-
